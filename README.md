@@ -1,5 +1,5 @@
 # endless-online-bot-made-with-autohotkey
-
+![endless online bot](./gif.gif)
 ## How This Endless Online Bot Works
 
 This is an **automated combat/healing bot** for Endless Online Remake. Here's the breakdown:
